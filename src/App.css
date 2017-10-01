@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  font-size: 30px;
+  padding-top: 10%;
+}
+
+.date {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.hours, .minutes, .seconds {
+  display: inline;
+}
